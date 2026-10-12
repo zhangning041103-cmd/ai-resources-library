@@ -7,7 +7,7 @@ A collection of useful AI tools, prompts, and tutorials.
 ## 资源目录
 
 - [AI 提示词库](prompts.md)
-
+- [AI 工具网站清单](ai-tools.md)
 ## 资源分类
 
 - AI 提示词
