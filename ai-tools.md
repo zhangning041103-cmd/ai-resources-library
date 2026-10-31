@@ -45,6 +45,7 @@
 | GitHub Copilot | 代码补全、编程辅助 | https://github.com/features/copilot |
 | Cursor | AI 辅助代码编辑与项目开发 | https://cursor.com/ |
 | Replit | 在线编程、运行和构建应用 | https://replit.com/ |
+| agent-qa | vostride 的网页与移动端 AI 测试，提供 memidex 持久记忆、经验证的自我改进、MCP 与可复查证据；模型费用另计 | https://vostride.com |
 
 ## AI 图片生成
 
